@@ -1,0 +1,11 @@
+function onCreate()
+  makeLuaSprite('que', 'exe/kindling/what',-1200,-700)
+  scaleObject('que',1.6,1.5)
+  addLuaSprite('que',false)
+  makeLuaSprite('sangue', 'exe/kindling/bloodfalls',-1200,-700)
+  scaleObject('sangue',1.6,1.5)
+  addLuaSprite('sangue',false)
+  makeLuaSprite('grama', 'exe/kindling/grass',-1200,-700)
+  scaleObject('grama',1.6,1.5)
+  addLuaSprite('grama',false)
+end
