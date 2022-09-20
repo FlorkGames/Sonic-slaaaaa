@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"hill-of-the-void",
+			"exe",
+			[
+				0,
+				33,
+				113
+			]
+		],
+		[
+			"confronting-yourself",
+			"cysexe",
+			[
+				0,
+				33,
+				153
+			]
+		],
+	  [
+			"endless-a",
+			"majin-allstars",
+			[
+				86,
+				0,
+				135
+			]
+		],
+    [
+			"kindling",
+			"hog",
+			[
+				66,
+				73,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
