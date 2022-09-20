@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cys2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GROUND0000" x="0" y="0" width="3851" height="596" frameX="-1771" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0001" x="0" y="0" width="3851" height="596" frameX="-1694" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0002" x="0" y="0" width="3851" height="596" frameX="-1617" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0003" x="0" y="0" width="3851" height="596" frameX="-1540" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0004" x="0" y="0" width="3851" height="596" frameX="-1463" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0005" x="0" y="0" width="3851" height="596" frameX="-1386" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0006" x="0" y="0" width="3851" height="596" frameX="-1309" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0007" x="0" y="0" width="3851" height="596" frameX="-1232" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0008" x="0" y="0" width="3851" height="596" frameX="-1155" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0009" x="0" y="0" width="3851" height="596" frameX="-1078" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0010" x="0" y="0" width="3851" height="596" frameX="-1001" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0011" x="0" y="0" width="3851" height="596" frameX="-924" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0012" x="0" y="0" width="3851" height="596" frameX="-847" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0013" x="0" y="0" width="3851" height="596" frameX="-770" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0014" x="0" y="0" width="3851" height="596" frameX="-693" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0015" x="0" y="0" width="3851" height="596" frameX="-616" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0016" x="0" y="0" width="3851" height="596" frameX="-539" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0017" x="0" y="0" width="3851" height="596" frameX="-462" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0018" x="0" y="0" width="3851" height="596" frameX="-385" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0019" x="0" y="0" width="3851" height="596" frameX="-308" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0020" x="0" y="0" width="3851" height="596" frameX="-231" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0021" x="0" y="0" width="3851" height="596" frameX="-154" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0022" x="0" y="0" width="3851" height="596" frameX="-77" frameY="0" frameWidth="5622" frameHeight="596"/>
+	<SubTexture name="GROUND0023" x="0" y="596" width="3851" height="596" frameX="0" frameY="0" frameWidth="5622" frameHeight="596"/>
+</TextureAtlas>
