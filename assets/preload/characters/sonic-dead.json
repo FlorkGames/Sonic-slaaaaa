@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-9
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "S_gameoverConfirm instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-12
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "S_gameoverLoop instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "S_gameover instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cysGameOver",
+	"position": [
+		430,
+		280
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.900000000000004
+}

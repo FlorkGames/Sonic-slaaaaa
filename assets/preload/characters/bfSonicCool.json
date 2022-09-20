@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				53
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				87
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				68
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "bf lose rings",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				714,
+				37
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "bf attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				44
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "bf dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				68
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				35
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				93,
+				53
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFCOOLLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				93
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFCOOLUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFCOOLDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				43
+			],
+			"anim": "singRIGHT",
+			"fps": 23,
+			"name": "BFCOOLRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfSonicCool",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

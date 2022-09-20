@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SS_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SS_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SS_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SS_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SS_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				29
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "SS_leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SS_downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "SS_rightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				31
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SS_upMISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cysSONICscared",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "cysSonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

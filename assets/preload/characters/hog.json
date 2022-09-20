@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hog idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hog left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hog down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hog up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hog right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hog",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "hog",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		38,
+		160
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

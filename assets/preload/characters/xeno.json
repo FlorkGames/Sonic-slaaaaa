@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EXE_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EXE_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EXE_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EXE_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EXE_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				58
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "EXE_laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cysXeno",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cysexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		102
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
