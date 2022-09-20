@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cysXeno.png">
+<SubTexture name="EXE_down0000" x="628" y="1658" width="524" height="565" frameX="0" frameY="-47" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_down0001" x="1616" y="865" width="475" height="602" frameX="-22" frameY="-10" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_down0002" x="1616" y="865" width="475" height="602" frameX="-22" frameY="-10" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_down0003" x="2101" y="667" width="459" height="613" frameX="-30" frameY="0" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_down0004" x="2101" y="667" width="459" height="613" frameX="-30" frameY="0" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_down0005" x="2101" y="667" width="459" height="613" frameX="-30" frameY="0" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_down0006" x="2101" y="667" width="459" height="613" frameX="-30" frameY="0" frameWidth="524" frameHeight="613" />
+<SubTexture name="EXE_idle0000" x="0" y="2323" width="663" height="496" frameX="-6" frameY="-15" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0001" x="0" y="2323" width="663" height="496" frameX="-6" frameY="-15" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0002" x="1815" y="1658" width="655" height="503" frameX="-12" frameY="0" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0003" x="1815" y="1658" width="655" height="503" frameX="-12" frameY="0" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0004" x="2703" y="0" width="654" height="499" frameX="-12" frameY="-4" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0005" x="2703" y="0" width="654" height="499" frameX="-12" frameY="-4" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0006" x="2703" y="0" width="654" height="499" frameX="-12" frameY="-4" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_idle0007" x="2703" y="0" width="654" height="499" frameX="-12" frameY="-4" frameWidth="676" frameHeight="521" />
+<SubTexture name="EXE_laugh0000" x="663" y="2323" width="707" height="489" frameX="0" frameY="-60" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_laugh0001" x="1152" y="1658" width="663" height="535" frameX="-22" frameY="-32" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_laugh0002" x="1152" y="1658" width="663" height="535" frameX="-22" frameY="-32" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_laugh0003" x="1152" y="1658" width="663" height="535" frameX="-22" frameY="-32" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_laugh0004" x="1152" y="1658" width="663" height="535" frameX="-22" frameY="-32" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_laugh0005" x="1152" y="1658" width="663" height="535" frameX="-22" frameY="-32" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_laugh0006" x="1152" y="1658" width="663" height="535" frameX="-22" frameY="-32" frameWidth="707" frameHeight="577" />
+<SubTexture name="EXE_left0000" x="0" y="1658" width="628" height="665" frameX="0" frameY="-12" frameWidth="682" frameHeight="677" />
+<SubTexture name="EXE_left0001" x="2101" y="0" width="602" height="667" frameX="-72" frameY="-9" frameWidth="682" frameHeight="677" />
+<SubTexture name="EXE_left0002" x="2101" y="0" width="602" height="667" frameX="-72" frameY="-9" frameWidth="682" frameHeight="677" />
+<SubTexture name="EXE_left0003" x="1021" y="865" width="595" height="675" frameX="-84" frameY="-2" frameWidth="682" frameHeight="677" />
+<SubTexture name="EXE_right0000" x="1434" y="0" width="667" height="826" frameX="-16" frameY="-26" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_right0001" x="890" y="0" width="544" height="842" frameX="-4" frameY="-10" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_right0002" x="890" y="0" width="544" height="842" frameX="-4" frameY="-10" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_right0003" x="390" y="0" width="500" height="852" frameX="0" frameY="0" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_right0004" x="390" y="0" width="500" height="852" frameX="0" frameY="0" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_right0005" x="390" y="0" width="500" height="852" frameX="0" frameY="0" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_right0006" x="390" y="0" width="500" height="852" frameX="0" frameY="0" frameWidth="683" frameHeight="852" />
+<SubTexture name="EXE_up0000" x="0" y="0" width="390" height="865" frameX="-29" frameY="0" frameWidth="526" frameHeight="873" />
+<SubTexture name="EXE_up0001" x="0" y="865" width="498" height="793" frameX="-18" frameY="-69" frameWidth="526" frameHeight="873" />
+<SubTexture name="EXE_up0002" x="0" y="865" width="498" height="793" frameX="-18" frameY="-69" frameWidth="526" frameHeight="873" />
+<SubTexture name="EXE_up0003" x="498" y="865" width="523" height="764" frameX="0" frameY="-103" frameWidth="526" frameHeight="873" />
+<SubTexture name="EXE_up0004" x="498" y="865" width="523" height="764" frameX="0" frameY="-103" frameWidth="526" frameHeight="873" />
+<SubTexture name="EXE_up0005" x="498" y="865" width="523" height="764" frameX="0" frameY="-103" frameWidth="526" frameHeight="873" />
+<SubTexture name="EXE_up0006" x="498" y="865" width="523" height="764" frameX="0" frameY="-103" frameWidth="526" frameHeight="873" />
+</TextureAtlas>
