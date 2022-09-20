@@ -1,0 +1,514 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "void",
+		"player1": "bf",
+		"player2": "exe",
+		"player3": null,
+		"events": [
+			[
+				20400,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				20754.375,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				21225,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				21450,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				21675,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				21975,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				25425,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				27525,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				40050,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				41325,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				45525,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				52725,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"3"
+					]
+				]
+			],
+			[
+				54825,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				55725,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				57525,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"3"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				58875,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				60075,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				62925,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				68175,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				75525,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				84525,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"3"
+					]
+				]
+			],
+			[
+				84600,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				85125,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				89250,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				89325,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"3"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				93825,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonic"
+					]
+				]
+			],
+			[
+				98850,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bfSonicCool"
+					]
+				]
+			],
+			[
+				98925,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"3"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				121425,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"5"
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				125925,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"5"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				135525,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"2"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				138075,
+				[
+					[
+						"Play Animation",
+						"victory",
+						"GF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					]
+				]
+			],
+			[
+				138150,
+				[
+					[
+						"Hey!",
+						"BF",
+						"100"
+					]
+				]
+			],
+			[
+				138825,
+				[
+					[
+						"Play Animation",
+						"victory loop",
+						"GF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfamy",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hill-of-the-void"
+	}
+}
